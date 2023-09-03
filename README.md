@@ -16,8 +16,7 @@ The Life Expectancy Dashboard provides the following key features:
 * **Life Expectancy Calculation**: A built-in mechanism to calculate life expectancy based on the selected parameters and time frame.
 
 ### Data Sources
-The dashboard utilizes real-life datasets on life expectancy, death rate, and alcohol consumption, which are essential factors influencing life expectancy. These datasets are collected from reliable sources and have been preprocessed for analysis.
-Dataset : https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+The dashboard utilizes real-life datasets on life expectancy, death rate, and alcohol consumption, which are essential factors influencing life expectancy. These [datasets](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who) are collected from reliable sources and have been preprocessed for analysis.
 
 ### Getting Started
 To get started with the Life Expectancy Dashboard, follow these steps:
