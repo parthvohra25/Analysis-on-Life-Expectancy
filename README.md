@@ -37,7 +37,5 @@ Once the dashboard is running, you can use the user-friendly interface to select
 #### Contributing
 If you would like to contribute to this project or have suggestions for improvements, please open an issue or submit a pull request. We welcome collaboration from the community to enhance the functionality and usability of the Life Expectancy Dashboard.
 
-#### License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Feel free to explore the dashboard and use it to gain valuable insights into the relationship between death rate, alcohol consumption, and life expectancy for various countries from 2000 to 2015. We hope this tool proves to be informative and useful in your data analysis endeavors.
