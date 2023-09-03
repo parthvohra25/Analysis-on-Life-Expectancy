@@ -7,13 +7,13 @@ Life expectancy is a critical indicator of the overall health and well-being of 
 ### Features
 The Life Expectancy Dashboard provides the following key features:
 
-* Data Visualization: Interactive charts and graphs to visualize trends in life expectancy, death rate, and alcohol consumption over the years 2000 to 2015.
+* **Data Visualization**: Interactive charts and graphs to visualize trends in life expectancy, death rate, and alcohol consumption over the years 2000 to 2015.
 
-* Country Selection: Users can choose specific countries to analyze individually or select all countries to view collective data.
+* **Country Selection**: Users can choose specific countries to analyze individually or select all countries to view collective data.
 
-* Time Range Selection: The ability to filter data within the specified time frame (2000 to 2015).
+* **Time Range Selection**: The ability to filter data within the specified time frame (2000 to 2015).
 
-* Life Expectancy Calculation: A built-in mechanism to calculate life expectancy based on the selected parameters and time frame.
+* **Life Expectancy Calculation**: A built-in mechanism to calculate life expectancy based on the selected parameters and time frame.
 
 ### Data Sources
 The dashboard utilizes real-life datasets on life expectancy, death rate, and alcohol consumption, which are essential factors influencing life expectancy. These datasets are collected from reliable sources and have been preprocessed for analysis.
